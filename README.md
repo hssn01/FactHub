@@ -32,7 +32,7 @@ FactHub/
 ### **Option 1: Run Locally**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sa3id31/facthub
+   git clone https://github.com/hssn01/FactHub.git
    cd facthub
    ```
 2. Install dependencies:
